@@ -8,7 +8,9 @@ This is a dashboard admin panel built using HTML, CSS, and JavaScript. The dashb
 ## Server 
 WAMP :- 
 Open a web browser and navigate to `http://localhost:8000` to access the pharmacy website.
-MYSQL Database (project.sql)
+## 
+MYSQL Database 
+(project.sql)
 
 
 ## Features
