@@ -6,8 +6,9 @@ Alleviating is a responsive web template for a medical category website, built u
 
 This is a dashboard admin panel built using HTML, CSS, and JavaScript. The dashboard allows administrators to manage various aspects of a website, including registered users, queries, admin users, and pharmacy users.
 ## Server 
-WAMP 
+WAMP :- 
 Open a web browser and navigate to `http://localhost:8000` to access the pharmacy website.
+MYSQL Database (project.sql)
 
 
 ## Features
