@@ -5,6 +5,10 @@ The Pharmacy Project is a comprehensive web application built using PHP, HTML, C
 Alleviating is a responsive web template for a medical category website, built using Bootstrap. It includes a user panel with features like user login/registration, departments, medical services, and a footer. The website is designed to provide a range of programs for women's healthcare, an individual approach to each patient, and a commitment to excellence in the medical clinic.
 
 This is a dashboard admin panel built using HTML, CSS, and JavaScript. The dashboard allows administrators to manage various aspects of a website, including registered users, queries, admin users, and pharmacy users.
+## Server 
+WAMP 
+Open a web browser and navigate to `http://localhost:8000` to access the pharmacy website.
+
 
 ## Features
 Responsive design that works well on various devices
