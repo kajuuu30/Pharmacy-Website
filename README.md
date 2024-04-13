@@ -33,3 +33,7 @@ Administrators can view details of specific products like Cipla, M-soliv, Sun Ph
 
 ## License
 This project is licensed under the MIT License.
+
+## Images 
+![image](https://github.com/kajuuu30/Pharmacy-Website/assets/129142214/74cb0e91-b9d7-456d-9ba7-617e55d1d411)
+
