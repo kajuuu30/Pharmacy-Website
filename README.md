@@ -15,7 +15,7 @@ Management of admin users, including adding, updating, viewing, and deleting adm
 Management of pharmacy users, including adding, updating, viewing, and deleting pharmacy user information
 Ability to view details of specific products like Cipla, M-soliv, Sun Pharma, and Zyrtec
 
-##Usage
+## Usage
 New users can register for an account on the website.
 Users can navigate through the different sections of the website, such as Home, Services, Gallery, and Contact.
 Users can log in or register to access the user panel.
